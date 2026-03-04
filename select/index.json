@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "レントリリー",
+  "base_artist": "ジグ",
+  "createdAt": "2026-03-04T02:20:23.809308Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "レントリリー",
+      "artist": "Zig",
+      "has_synced": true,
+      "path": "select/01_レントリリー_Zig.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "レントリリー",
+      "artist": "ジグ",
+      "has_synced": true,
+      "path": "select/02_レントリリー_ジグ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "レントリリー",
+      "artist": "ジグ",
+      "has_synced": false,
+      "path": "select/pl_01_レントリリー_ジグ.txt"
+    }
+  ]
+}
